@@ -10,3 +10,4 @@
 Kata "Sum of Two Integers" https://www.codewars.com/kata/5a9c35e9ba1bb5c54a0001ac
 Two Sum https://leetcode.com/problems/two-sum/
 https://www.codewars.com/kata/52c31f8e6605bcc646000082
+Two Sum II - Input array is sorted https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
