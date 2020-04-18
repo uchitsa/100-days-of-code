@@ -12,3 +12,4 @@ Two Sum https://leetcode.com/problems/two-sum/
 https://www.codewars.com/kata/52c31f8e6605bcc646000082
 Two Sum II - Input array is sorted https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
 Kata "Find the divisors!" https://www.codewars.com/kata/544aed4c4a30184e960010f4/solutions/python
+Sum of two integers https://leetcode.com/problems/sum-of-two-integers/submissions/
