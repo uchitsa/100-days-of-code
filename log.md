@@ -21,4 +21,5 @@ Sum of two integers https://leetcode.com/problems/sum-of-two-integers/submission
 
 **Thoughts:** find ways to solve exercise.
 
-**Link to work:** 
+**Link to work:**
+Palndrome number https://leetcode.com/problems/palindrome-number/submissions/
