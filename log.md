@@ -24,3 +24,13 @@ Sum of two integers https://leetcode.com/problems/sum-of-two-integers/submission
 **Link to work:**
 Palindrome number https://leetcode.com/problems/palindrome-number/submissions/
 Kata Numerical Palindrome #1 https://www.codewars.com/kata/58ba6fece3614ba7c200017f/
+
+
+### Day 2: April 20, 2020
+
+**Today's Progress**: Some algorithmic tasks.
+
+**Thoughts:** find ways to solve task optimally.
+
+**Link to work:**
+Given positive integer NN. Find the number of positive integers less than NN such that their sum of digits (in decimal notation) is equal to the sum of digits in the number NN. Output the number of such integers.
