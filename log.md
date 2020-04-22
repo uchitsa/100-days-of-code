@@ -47,3 +47,13 @@ Arithmetic average
 Write a program that reads two numbers aa and bb from the keyboard, calculates and outputs to the console the arithmetic average of all numbers from the interval [a; b][a;b], which are divided by 33.
 In the example below the arithmetic average is calculated for the numbers on the interval [-5; 12][−5;12]. Total numbers divided by 33 on this interval 66: -3, 0, 3, 6, 9, 12−3,0,3,6,9,12. Their arithmetic average equals to 4.54.5 
 The program input contains intervals, which always contain at least one number, which is divided by 33.
+
+
+### Day 4: April 22, 2020
+
+**Today's Progress**: Some algorithmic tasks.
+
+**Thoughts:** find ways to solve task optimally.
+
+**Link to work:**
+1. Пользователь вводит данные о количестве предприятий, их наименования и прибыль за четыре квартала для каждого предприятия. Программа должна определить среднюю прибыль (за год для всех предприятий) и отдельно вывести наименования предприятий, чья прибыль выше среднего и ниже среднего.
