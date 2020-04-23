@@ -58,3 +58,14 @@ The program input contains intervals, which always contain at least one number, 
 **Link to work:**
 1. Пользователь вводит данные о количестве предприятий, их наименования и прибыль за четыре квартала для каждого предприятия. Программа должна определить среднюю прибыль (за год для всех предприятий) и отдельно вывести наименования предприятий, чья прибыль выше среднего и ниже среднего.
 2. Kata https://www.codewars.com/kata/56541980fa08ab47a0000040
+
+
+### Day 5: April 23, 2020
+
+**Today's Progress**: Some algorithmic tasks and katas.
+
+**Thoughts:** I wanna realize some pet project.
+
+**Link to work:**
+
+Kata https://www.codewars.com/kata/52f3149496de55aded000410
