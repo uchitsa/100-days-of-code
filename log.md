@@ -67,5 +67,14 @@ The program input contains intervals, which always contain at least one number, 
 **Thoughts:** I wanna realize some pet project.
 
 **Link to work:**
-
 Kata https://www.codewars.com/kata/52f3149496de55aded000410
+
+
+### Day 6: April 24, 2020
+
+**Today's Progress**: Some algorithmic tasks and katas.
+
+**Thoughts:** I wanna realize some pet project.
+
+**Link to work:**
+Kata codewars.com/kata/515e188a311df01cba000003
