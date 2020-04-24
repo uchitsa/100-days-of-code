@@ -78,3 +78,4 @@ Kata https://www.codewars.com/kata/52f3149496de55aded000410
 
 **Link to work:**
 Kata codewars.com/kata/515e188a311df01cba000003
+Longest Substring Without Repeating Characters https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/
