@@ -79,3 +79,13 @@ Kata https://www.codewars.com/kata/52f3149496de55aded000410
 **Link to work:**
 Kata codewars.com/kata/515e188a311df01cba000003
 Longest Substring Without Repeating Characters https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/
+
+
+### Day 7: April 25, 2020
+
+**Today's Progress**: Start pet project bot.
+
+**Thoughts:** I wanna make bot on python.
+
+**Link to work:**
+realpython.com
