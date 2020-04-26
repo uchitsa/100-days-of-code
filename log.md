@@ -89,3 +89,13 @@ Longest Substring Without Repeating Characters https://leetcode.com/problems/lon
 
 **Link to work:**
 realpython.com
+
+
+### Day 8: April 26, 2020
+
+**Today's Progress**: Some algorithmic tasks and katas.
+
+**Thoughts:** I wanna more practice.
+
+**Link to work:**
+Kata https://www.codewars.com/kata/5841f680c5c9b092950001ae
