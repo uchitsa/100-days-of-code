@@ -99,3 +99,13 @@ realpython.com
 
 **Link to work:**
 Kata https://www.codewars.com/kata/5841f680c5c9b092950001ae
+
+
+### Day 9: April 27, 2020
+
+**Today's Progress**: Some algorithmic tasks and katas.
+
+**Thoughts:** I wanna more practice.
+
+**Link to work:**
+Kata https://www.codewars.com/kata/5bb904724c47249b10000131
