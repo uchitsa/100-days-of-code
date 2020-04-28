@@ -109,3 +109,14 @@ Kata https://www.codewars.com/kata/5841f680c5c9b092950001ae
 
 **Link to work:**
 Kata https://www.codewars.com/kata/5bb904724c47249b10000131
+
+
+
+### Day 10: April 28, 2020
+
+**Today's Progress**: Learn how to work with db from python.
+
+**Thoughts:** sqlite3 is good, but postgres is better.
+
+**Link to work:**
+https://www.tutorialspoint.com/postgresql/postgresql_python.htm
