@@ -111,7 +111,6 @@ Kata https://www.codewars.com/kata/5841f680c5c9b092950001ae
 Kata https://www.codewars.com/kata/5bb904724c47249b10000131
 
 
-
 ### Day 10: April 28, 2020
 
 **Today's Progress**: Learn how to work with db from python.
@@ -120,3 +119,13 @@ Kata https://www.codewars.com/kata/5bb904724c47249b10000131
 
 **Link to work:**
 https://www.tutorialspoint.com/postgresql/postgresql_python.htm
+
+
+### Day 11: April 29, 2020
+
+**Today's Progress**: Some algorithmic tasks and katas.
+
+**Thoughts:** I wanna more practice.
+
+**Link to work:**
+https://leetcode.com/problems/valid-parentheses
