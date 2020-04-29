@@ -129,3 +129,4 @@ https://www.tutorialspoint.com/postgresql/postgresql_python.htm
 
 **Link to work:**
 https://leetcode.com/problems/valid-parentheses
+Kata How many are smaller than me? https://www.codewars.com/kata/56a1c074f87bc2201200002e
