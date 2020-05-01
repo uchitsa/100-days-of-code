@@ -130,3 +130,13 @@ https://www.tutorialspoint.com/postgresql/postgresql_python.htm
 **Link to work:**
 https://leetcode.com/problems/valid-parentheses
 Kata How many are smaller than me? https://www.codewars.com/kata/56a1c074f87bc2201200002e
+
+
+Day 12: April 30, 2020
+
+Today's Progress: Some algorithmic tasks and katas.
+
+Thoughts: I wanna more practice.
+
+Link to work:
+Kata Knight position https://www.codewars.com/kata/5b5736abf1d553f844000050
