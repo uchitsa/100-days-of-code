@@ -140,3 +140,14 @@ Thoughts: I wanna more practice.
 
 Link to work:
 Kata Knight position https://www.codewars.com/kata/5b5736abf1d553f844000050
+
+
+Day 13: May 1, 2020
+
+Today's Progress: Some algorithmic tasks and katas.
+
+Thoughts: I wanna more practice.
+
+Link to work:
+Kata last digits of a number https://www.codewars.com/kata/5cd5ba1ce4471a00256930c0
+https://www.codewars.com/kata/5cd5ba1ce4471a00256930c0/solutions/python
