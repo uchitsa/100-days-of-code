@@ -132,7 +132,7 @@ https://leetcode.com/problems/valid-parentheses
 Kata How many are smaller than me? https://www.codewars.com/kata/56a1c074f87bc2201200002e
 
 
-Day 12: April 30, 2020
+### Day 12: April 30, 2020
 
 Today's Progress: Some algorithmic tasks and katas.
 
@@ -142,7 +142,7 @@ Link to work:
 Kata Knight position https://www.codewars.com/kata/5b5736abf1d553f844000050
 
 
-Day 13: May 1, 2020
+### Day 13: May 1, 2020
 
 Today's Progress: Some algorithmic tasks and katas.
 
@@ -151,3 +151,26 @@ Thoughts: I wanna more practice.
 Link to work:
 Kata last digits of a number https://www.codewars.com/kata/5cd5ba1ce4471a00256930c0
 https://www.codewars.com/kata/5cd5ba1ce4471a00256930c0/solutions/python
+
+
+### Day 14: May 2, 2020
+
+**Today's Progress**: Start pet project bot.
+
+**Thoughts:** look for golang.
+
+**Link to work:**
+golang.org
+golangbot.com
+
+### Day 15: May 3, 2020
+
+Today's Progress: Some algorithmic tasks and katas.
+
+Thoughts: I wanna more practice.
+
+Link to work:
+Kata last digits of a number https://www.codewars.com/kata/5cd5ba1ce4471a00256930c0
+https://www.codewars.com/kata/5cd5ba1ce4471a00256930c0/solutions/python
+
+Kata Sum of Digits / Digital Root https://www.codewars.com/kata/541c8630095125aba6000c00/train/scala
