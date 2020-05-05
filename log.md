@@ -167,10 +167,21 @@ golangbot.com
 
 Today's Progress: Some algorithmic tasks and katas.
 
-Thoughts: I wanna more practice.
+**Thoughts**: I wanna more practice.
 
-Link to work:
+**Link to work**:
 Kata last digits of a number https://www.codewars.com/kata/5cd5ba1ce4471a00256930c0
 https://www.codewars.com/kata/5cd5ba1ce4471a00256930c0/solutions/python
 
 Kata Sum of Digits / Digital Root https://www.codewars.com/kata/541c8630095125aba6000c00/train/scala
+
+
+### Day 16: May 4, 2020
+
+**Today's Progress**: continue work with pet project bot.
+
+**Thoughts:** how good is golang, but why it's not OOP?!
+
+**Link to work:**
+golang.org
+golangbot.com
