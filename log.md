@@ -185,3 +185,13 @@ Kata Sum of Digits / Digital Root https://www.codewars.com/kata/541c8630095125ab
 **Link to work:**
 golang.org
 golangbot.com
+
+
+### Day 17: May 5, 2020
+
+**Today's Progress**: learn some python libs and packets.
+
+**Thoughts:** Python is cool!
+
+**Link to work:**
+https://www.python.org/doc/
