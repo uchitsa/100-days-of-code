@@ -206,3 +206,13 @@ https://www.python.org/doc/
 **Link to work:**
 golang.org
 golangbot.com
+
+
+### Day 19: May 7, 2020
+
+**Today's Progress**: solve some tasks with golang.
+
+**Thoughts:** golang is good
+
+**Link to work:**
+stepik.org
