@@ -195,3 +195,14 @@ golangbot.com
 
 **Link to work:**
 https://www.python.org/doc/
+
+
+### Day 18: May 6, 2020
+
+**Today's Progress**: continue work with pet project bot.
+
+**Thoughts:** how good is golang, but why it's not OOP?!
+
+**Link to work:**
+golang.org
+golangbot.com
