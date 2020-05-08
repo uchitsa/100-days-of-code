@@ -230,3 +230,4 @@ https://www.hackerrank.com/challenges/java-datatypes
 https://www.hackerrank.com/challenges/java-end-of-file
 https://www.hackerrank.com/challenges/java-static-initializer-block
 https://leetcode.com/problems/kids-with-the-greatest-number-of-candies
+https://www.hackerrank.com/challenges/repeated-string
