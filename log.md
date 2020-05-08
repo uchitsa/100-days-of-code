@@ -216,3 +216,16 @@ golangbot.com
 
 **Link to work:**
 stepik.org
+
+
+### Day 20: May 8, 2020
+
+Today's Progress: Some algorithmic tasks and katas.
+
+**Thoughts**: I wanna more practice.
+
+**Link to work**:
+https://www.hackerrank.com/challenges/30-generics
+https://www.hackerrank.com/challenges/java-datatypes
+https://www.hackerrank.com/challenges/java-end-of-file
+https://www.hackerrank.com/challenges/java-static-initializer-block
