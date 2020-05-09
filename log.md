@@ -232,3 +232,13 @@ https://www.hackerrank.com/challenges/java-static-initializer-block
 https://leetcode.com/problems/kids-with-the-greatest-number-of-candies
 https://www.hackerrank.com/challenges/repeated-string
 https://www.hackerrank.com/challenges/sock-merchant
+
+
+### Day 21: May 9, 2020
+
+Today's Progress: Some algorithmic tasks and katas.
+
+**Thoughts**: I wanna more practice.
+
+**Link to work**:
+https://www.hackerrank.com/challenges/grading
