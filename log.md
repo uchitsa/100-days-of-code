@@ -242,3 +242,13 @@ Today's Progress: Some algorithmic tasks and katas.
 
 **Link to work**:
 https://www.hackerrank.com/challenges/grading
+
+
+### Day 22: May 10, 2020
+
+Today's Progress: Some algorithmic tasks and katas.
+
+**Thoughts**: I wanna more practice.
+
+**Link to work**:
+https://www.hackerrank.com/challenges/30-binary-search-trees
