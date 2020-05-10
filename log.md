@@ -252,3 +252,5 @@ Today's Progress: Some algorithmic tasks and katas.
 
 **Link to work**:
 https://www.hackerrank.com/challenges/30-binary-search-trees
+https://www.hackerrank.com/challenges/java-int-to-string
+https://www.hackerrank.com/challenges/java-date-and-time
