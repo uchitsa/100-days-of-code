@@ -254,3 +254,13 @@ Today's Progress: Some algorithmic tasks and katas.
 https://www.hackerrank.com/challenges/30-binary-search-trees
 https://www.hackerrank.com/challenges/java-int-to-string
 https://www.hackerrank.com/challenges/java-date-and-time
+
+
+### Day 23: May 11, 2020
+
+**Today's Progress**: learn react.js.
+
+**Thoughts:** react is cool
+
+**Link to work:**
+https://reactjs.org/docs/create-a-new-react-app.html
