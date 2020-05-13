@@ -264,3 +264,13 @@ https://www.hackerrank.com/challenges/java-date-and-time
 
 **Link to work:**
 https://reactjs.org/docs/create-a-new-react-app.html
+
+
+### Day 24: May 12, 2020
+
+**Today's Progress**: learn react.js.
+
+**Thoughts:** react is cool
+
+**Link to work:**
+https://reactjs.org/docs/create-a-new-react-app.html
