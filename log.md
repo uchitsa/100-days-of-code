@@ -275,3 +275,14 @@ https://reactjs.org/docs/create-a-new-react-app.html
 **Link to work:**
 https://reactjs.org/docs/create-a-new-react-app.html
 https://reactjs.org/
+
+
+### Day 25: May 13, 2020
+
+**Today's Progress**: learn react.js.
+
+**Thoughts:** react is cool
+
+**Link to work:**
+https://reactjs.org/docs/create-a-new-react-app.html
+https://reactjs.org/
