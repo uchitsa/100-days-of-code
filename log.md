@@ -286,3 +286,13 @@ https://reactjs.org/
 **Link to work:**
 https://reactjs.org/docs/create-a-new-react-app.html
 https://reactjs.org/
+
+
+### Day 26: May 14, 2020
+
+Today's Progress: Some algorithmic tasks and katas.
+
+**Thoughts**: I wanna more practice.
+
+**Link to work:**
+https://www.hackerrank.com/challenges/java-currency-formatter
