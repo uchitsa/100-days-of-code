@@ -296,3 +296,57 @@ Today's Progress: Some algorithmic tasks and katas.
 
 **Link to work:**
 https://www.hackerrank.com/challenges/java-currency-formatter
+
+
+### Day 27: May 15, 2020
+
+**Today's Progress**: learn react.js.
+
+**Thoughts:** react is cool
+
+**Link to work:**
+https://reactjs.org/docs/create-a-new-react-app.html
+https://reactjs.org/
+
+
+### Day 28: May 16, 2020
+
+**Today's Progress**: learn react.js.
+
+**Thoughts:** react is cool
+
+**Link to work:**
+https://reactjs.org/docs/create-a-new-react-app.html
+https://reactjs.org/
+
+
+### Day 29: May 17, 2020
+
+**Today's Progress**: learn react.js.
+
+**Thoughts:** react is cool
+
+**Link to work:**
+https://reactjs.org/docs/create-a-new-react-app.html
+https://reactjs.org/
+
+
+### Day 30: May 18, 2020
+
+**Today's Progress**: continue to learn react.js.
+
+**Thoughts:** react is more than just a js library
+
+**Link to work:**
+https://reactjs.org/docs/create-a-new-react-app.html
+https://reactjs.org/
+
+
+### Day 31: May 19, 2020
+
+Today's Progress: Some algorithmic tasks and katas.
+
+**Thoughts**: I wanna more practice.
+
+**Link to work:**
+https://www.hackerrank.com/challenges/java-strings-introduction
