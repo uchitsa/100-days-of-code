@@ -350,3 +350,4 @@ Today's Progress: Some algorithmic tasks and katas.
 
 **Link to work:**
 https://www.hackerrank.com/challenges/java-strings-introduction
+https://www.hackerrank.com/challenges/java-substring
