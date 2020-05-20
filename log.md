@@ -352,3 +352,13 @@ Today's Progress: Some algorithmic tasks and katas.
 https://www.hackerrank.com/challenges/java-strings-introduction
 https://www.hackerrank.com/challenges/java-substring
 https://www.hackerrank.com/challenges/java-1d-array-introduction
+
+
+### Day 32: May 20, 2020
+
+Today's Progress: Some algorithmic tasks and katas.
+
+**Thoughts**: I wanna more practice.
+
+**Link to work:**
+https://www.codewars.com/kata/5276c18121e20900c0000235
