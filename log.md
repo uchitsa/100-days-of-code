@@ -362,3 +362,14 @@ Today's Progress: Some algorithmic tasks and katas.
 
 **Link to work:**
 https://www.codewars.com/kata/5276c18121e20900c0000235
+
+
+### Day 33: May 21, 2020
+
+**Today's Progress**: continue to learn react.js.
+
+**Thoughts:** react is more than just a js library
+
+**Link to work:**
+https://reactjs.org/docs/create-a-new-react-app.html
+https://reactjs.org/  
