@@ -373,3 +373,25 @@ https://www.codewars.com/kata/5276c18121e20900c0000235
 **Link to work:**
 https://reactjs.org/docs/create-a-new-react-app.html
 https://reactjs.org/  
+
+
+### Day 34: May 22, 2020
+
+**Today's Progress**: continue to learn react.js.
+
+**Thoughts:** react is more than just a js library
+
+**Link to work:**
+https://reactjs.org/docs/create-a-new-react-app.html
+https://reactjs.org/  
+
+
+### Day 35: May 23, 2020
+
+**Today's Progress**: continue to learn react.js.
+
+**Thoughts:** react is more than just a js library
+
+**Link to work:**
+https://reactjs.org/docs/create-a-new-react-app.html
+https://reactjs.org/  
