@@ -405,3 +405,14 @@ Today's Progress: Some algorithmic tasks and katas.
 
 **Link to work:**
 https://www.codewars.com/kata/53573877d5493b4d6e00050c
+
+
+### Day 37: May 25, 2020
+
+**Today's Progress**: learn web-development.
+
+**Thoughts:** js or php?!
+
+**Link to work:**
+metanit.com
+coderlessons.com/tutorials
