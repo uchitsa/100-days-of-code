@@ -416,3 +416,36 @@ https://www.codewars.com/kata/53573877d5493b4d6e00050c
 **Link to work:**
 metanit.com
 coderlessons.com/tutorials
+
+
+### Day 38: May 26, 2020
+
+**Today's Progress**: continue to learn react.js.
+
+**Thoughts:** react is more than just a js library
+
+**Link to work:**
+https://reactjs.org/docs/create-a-new-react-app.html
+https://reactjs.org/  
+
+
+### Day 39: May 27, 2020
+
+**Today's Progress**: learn web-development.
+
+**Thoughts:** js or php?!
+
+**Link to work:**
+metanit.com
+coderlessons.com/tutorials
+
+
+### Day 40: May 28, 2020
+
+**Today's Progress**: continue to learn react.js.
+
+**Thoughts:** react is more than just a js library
+
+**Link to work:**
+https://reactjs.org/docs/create-a-new-react-app.html
+https://reactjs.org/  
