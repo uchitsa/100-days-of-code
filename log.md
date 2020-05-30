@@ -454,9 +454,21 @@ https://reactjs.org/
 
 ### Day 41: May 29, 2020
 
-Today's Progress: Some algorithmic tasks and katas.
+**Today's Progress**: Some algorithmic tasks and katas.
 
 **Thoughts**: I wanna more practice.
 
 **Link to work:**
 https://www.codewars.com/kata/5635e7cb49adc7b54500001c
+
+
+### Day 42: May 30, 2020
+
+**Today's Progress**: 
+ - study Ruby (**7 langs in 7 weeks**)
+ - Some algorithmic tasks and katas.
+
+**Thoughts**: new langs is cool! I wanna more practice.
+
+**Link to work:**
+https://www.codewars.com/kata/54599705cbae2aa60b0011a4
