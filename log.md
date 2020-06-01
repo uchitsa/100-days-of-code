@@ -478,6 +478,7 @@ https://www.codewars.com/kata/54599705cbae2aa60b0011a4
 
 **Today's Progress**: 
  - study Java
+ - study Ruby (**7 langs in 7 weeks**)
  - Some algorithmic tasks and katas.
 
 **Thoughts**: new langs is cool! I wanna more practice.
@@ -485,3 +486,4 @@ https://www.codewars.com/kata/54599705cbae2aa60b0011a4
 **Link to work:**
 https://www.hackerrank.com/challenges/java-string-compare
 https://www.hackerrank.com/challenges/java-string-reverse
+https://www.codewars.com/kata/53697be005f803751e0015aa
