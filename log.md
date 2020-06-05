@@ -500,3 +500,15 @@ https://www.codewars.com/kata/53697be005f803751e0015aa
 **Link to work:**
 https://stepik.org/lesson/3380/step/1
 https://stepik.org/lesson/24459/step/15
+
+
+### Day 45: June 2, 2020
+
+**Today's Progress**: 
+ - study Python
+ - Some algorithmic tasks and katas.
+
+**Thoughts**: new langs is cool! I wanna more practice.
+
+**Link to work:**
+https://www.codewars.com/kata/5d6f49d85e45290016bf4718
