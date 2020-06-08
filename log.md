@@ -512,3 +512,60 @@ https://stepik.org/lesson/24459/step/15
 
 **Link to work:**
 https://www.codewars.com/kata/5d6f49d85e45290016bf4718
+
+
+### Day 46: June 3, 2020
+
+**Today's Progress**: 
+ - study Python
+ 
+**Thoughts**: new langs is cool! I wanna more practice.
+
+**Link to work:**
+pythonz.net
+
+
+### Day 47: June 4, 2020
+
+**Today's Progress**: 
+ - study Python
+ 
+**Thoughts**: new langs is cool! I wanna more practice.
+
+**Link to work:**
+pythonz.net
+
+
+### Day 48: June 5, 2020
+
+**Today's Progress**: 
+ - study Python
+ - Some algorithmic tasks and katas.
+
+**Thoughts**: new langs is cool! I wanna more practice.
+
+**Link to work:**
+https://app.codility.com/programmers/lessons/
+
+
+### Day 49: June 6, 2020
+
+**Today's Progress**: 
+ - study Java, Kotlin
+ 
+**Thoughts**: new langs is cool! I wanna more practice.
+
+**Link to work:**
+kotl.in
+
+
+### Day 50: June 7, 2020
+
+**Today's Progress**: 
+ - study Java, Kotlin, Scala
+ 
+**Thoughts**: new langs is cool! I wanna more practice.
+
+**Link to work:**
+kotl.in
+scala-lang.org
