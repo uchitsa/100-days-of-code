@@ -569,3 +569,14 @@ kotl.in
 **Link to work:**
 kotl.in
 scala-lang.org
+
+
+### Day 51: June 8, 2020
+
+**Today's Progress**: 
+ - study Java, Kotlin
+ 
+**Thoughts**: new langs is cool! I wanna more practice.
+
+**Link to work:**
+kotl.in
