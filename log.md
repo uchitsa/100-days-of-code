@@ -580,3 +580,75 @@ scala-lang.org
 
 **Link to work:**
 kotl.in
+
+
+### Day 52: June 9, 2020
+
+**Today's Progress**: 
+ - study Java, Kotlin, Scala
+ 
+**Thoughts**: new langs is cool! I wanna more practice.
+
+**Link to work:**
+kotl.in
+scala-lang.org
+
+
+### Day 53: June 10, 2020
+
+**Today's Progress**: 
+ - study Java, Kotlin, Scala
+ 
+**Thoughts**: new langs is cool! I wanna more practice.
+
+**Link to work:**
+kotl.in
+scala-lang.org
+
+
+### Day 54: June 11, 2020
+
+**Today's Progress**: 
+ - study Java, Kotlin, Scala
+ 
+**Thoughts**: new langs is cool! I wanna more practice.
+
+**Link to work:**
+kotl.in
+scala-lang.org
+
+
+### Day 55: June 12, 2020
+
+**Today's Progress**: 
+ - study Java, Kotlin, Scala
+ 
+**Thoughts**: new langs is cool! I wanna more practice.
+
+**Link to work:**
+kotl.in
+scala-lang.org
+
+
+### Day 56: June 13, 2020
+
+**Today's Progress**: 
+ - study Java, Kotlin, Scala
+ 
+**Thoughts**: new langs is cool! I wanna more practice.
+
+**Link to work:**
+kotl.in
+scala-lang.org
+
+
+### Day 57: June 14, 2020
+
+**Today's Progress**: 
+ - study Java, Kotlin, Scala
+ 
+**Thoughts**: new langs is cool! I wanna more practice.
+
+**Link to work:**
+kotl.in
+scala-lang.org
