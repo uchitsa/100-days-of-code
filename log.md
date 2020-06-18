@@ -652,3 +652,27 @@ scala-lang.org
 **Link to work:**
 kotl.in
 scala-lang.org
+
+
+### Day 58: June 15, 2020
+
+**Today's Progress**: 
+ - study Java, Kotlin, Scala
+ 
+**Thoughts**: new langs is cool! I wanna more practice.
+
+**Link to work:**
+kotl.in
+scala-lang.org
+
+
+### Day 59: June 16, 2020
+
+**Today's Progress**: 
+ - study Python
+ 
+**Thoughts**: new langs is cool! I wanna more practice.
+
+**Link to work:**
+pythonz.net
+stepik.org/course/67/syllabus
