@@ -676,3 +676,14 @@ scala-lang.org
 **Link to work:**
 pythonz.net
 stepik.org/course/67/syllabus
+
+
+### Day 60: June 17, 2020
+
+**Today's Progress**: 
+ - Some algorithmic tasks and katas.
+
+**Thoughts**: I wanna more practice.
+
+**Link to work:**
+https://www.codewars.com/kata/57e92e91b63b6cbac20001e5
