@@ -687,3 +687,14 @@ stepik.org/course/67/syllabus
 
 **Link to work:**
 https://www.codewars.com/kata/57e92e91b63b6cbac20001e5
+
+
+### Day 61: June 18, 2020
+
+**Today's Progress**: 
+ - Some algorithmic tasks and katas.
+
+**Thoughts**: I wanna more practice.
+
+**Link to work:**
+https://www.hackerrank.com/challenges/java-string-compare/
