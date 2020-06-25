@@ -709,3 +709,14 @@ https://www.hackerrank.com/challenges/java-string-compare/
 
 **Link to work:**
 https://leetcode.com/problems/jewels-and-stones/
+
+
+### Day 63: June 20, 2020
+
+**Today's Progress**: 
+ - Some algorithmic tasks and katas.
+
+**Thoughts**: I wanna more practice.
+
+**Link to work:**
+https://leetcode.com/problems/running-sum-of-1d-array/
