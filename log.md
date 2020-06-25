@@ -698,3 +698,14 @@ https://www.codewars.com/kata/57e92e91b63b6cbac20001e5
 
 **Link to work:**
 https://www.hackerrank.com/challenges/java-string-compare/
+
+
+### Day 62: June 19, 2020
+
+**Today's Progress**: 
+ - Some algorithmic tasks and katas.
+
+**Thoughts**: I wanna more practice.
+
+**Link to work:**
+https://leetcode.com/problems/jewels-and-stones/
