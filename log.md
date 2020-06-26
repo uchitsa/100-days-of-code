@@ -720,3 +720,14 @@ https://leetcode.com/problems/jewels-and-stones/
 
 **Link to work:**
 https://leetcode.com/problems/running-sum-of-1d-array/
+
+
+### Day 64: June 21, 2020
+
+**Today's Progress**: 
+ - Some algorithmic tasks and katas.
+
+**Thoughts**: I wanna more practice.
+
+**Link to work:**
+https://leetcode.com/problems/divide-two-integers/
