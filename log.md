@@ -754,3 +754,4 @@ https://leetcode.com/problems/reverse-words-in-a-string/
 
 **Link to work:**
 https://leetcode.com/problems/shuffle-the-array/
+https://leetcode.com/problems/xor-operation-in-an-array/
