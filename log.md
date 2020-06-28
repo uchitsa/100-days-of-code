@@ -734,7 +734,6 @@ https://leetcode.com/problems/divide-two-integers/
 https://leetcode.com/problems/non-decreasing-array/
 
 
-
 ### Day 65: June 22, 2020
 
 **Today's Progress**: 
@@ -744,3 +743,14 @@ https://leetcode.com/problems/non-decreasing-array/
 
 **Link to work:**
 https://leetcode.com/problems/reverse-words-in-a-string/
+
+
+### Day 66: June 23, 2020
+
+**Today's Progress**: 
+ - Some algorithmic tasks and katas.
+
+**Thoughts**: I wanna more practice.
+
+**Link to work:**
+https://leetcode.com/problems/shuffle-the-array/
