@@ -788,3 +788,14 @@ https://www.hackerrank.com/challenges/ruby-enumerable-each-with-index/
 
 **Link to work:**
 https://leetcode.com/problems/single-number-ii/
+
+
+### Day 70: June 27, 2020
+
+**Today's Progress**: 
+ - Try Go.
+
+**Thoughts**: I wanna more practice.
+
+**Link to work:**
+https://stepik.org/lesson/229321/step/3?unit=201907
