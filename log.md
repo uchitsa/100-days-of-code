@@ -766,3 +766,14 @@ https://leetcode.com/problems/xor-operation-in-an-array/
 
 **Link to work:**
 https://leetcode.com/problems/single-number/
+
+
+### Day 68: June 25, 2020
+
+**Today's Progress**: 
+ - Some algorithmic tasks and katas.
+
+**Thoughts**: I wanna more practice.
+
+**Link to work:**
+https://www.hackerrank.com/challenges/ruby-enumerable-each-with-index/
