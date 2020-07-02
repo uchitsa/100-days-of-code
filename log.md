@@ -755,3 +755,14 @@ https://leetcode.com/problems/reverse-words-in-a-string/
 **Link to work:**
 https://leetcode.com/problems/shuffle-the-array/
 https://leetcode.com/problems/xor-operation-in-an-array/
+
+
+### Day 67: June 24, 2020
+
+**Today's Progress**: 
+ - Some algorithmic tasks and katas.
+
+**Thoughts**: I wanna more practice.
+
+**Link to work:**
+https://leetcode.com/problems/single-number/
