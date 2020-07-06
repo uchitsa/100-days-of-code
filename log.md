@@ -810,3 +810,14 @@ https://stepik.org/lesson/229321/step/3?unit=201907
 
 **Link to work:**
 https://leetcode.com/problems/string-to-integer-atoi/
+
+
+### Day 72: June 29, 2020
+
+**Today's Progress**: 
+ - Some algorithmic tasks and katas.
+
+**Thoughts**: I wanna more practice.
+
+**Link to work:**
+https://leetcode.com/problems/reverse-integer/
