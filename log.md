@@ -799,3 +799,14 @@ https://leetcode.com/problems/single-number-ii/
 
 **Link to work:**
 https://stepik.org/lesson/229321/step/3?unit=201907
+
+
+### Day 71: June 28, 2020
+
+**Today's Progress**: 
+ - Some algorithmic tasks and katas.
+
+**Thoughts**: I wanna more practice.
+
+**Link to work:**
+https://leetcode.com/problems/string-to-integer-atoi/
