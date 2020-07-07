@@ -832,3 +832,14 @@ https://leetcode.com/problems/reverse-integer/
 
 **Link to work:**
 https://leetcode.com/problems/largest-number/
+
+
+### Day 74: July 1, 2020
+
+**Today's Progress**: 
+ - Some algorithmic tasks and katas.
+
+**Thoughts**: I wanna more practice.
+
+**Link to work:**
+https://leetcode.com/problems/length-of-last-word/
