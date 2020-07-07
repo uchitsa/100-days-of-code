@@ -821,3 +821,14 @@ https://leetcode.com/problems/string-to-integer-atoi/
 
 **Link to work:**
 https://leetcode.com/problems/reverse-integer/
+
+
+### Day 73: June 30, 2020
+
+**Today's Progress**: 
+ - Some algorithmic tasks and katas.
+
+**Thoughts**: I wanna more practice.
+
+**Link to work:**
+https://leetcode.com/problems/largest-number/
