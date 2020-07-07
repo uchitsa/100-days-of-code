@@ -854,3 +854,14 @@ https://leetcode.com/problems/length-of-last-word/
 
 **Link to work:**
 https://www.hackerrank.com/challenges/ruby-enumerable-each-with-index
+
+
+### Day 76: July 3, 2020
+
+**Today's Progress**: 
+ - Some algorithmic tasks and katas.
+
+**Thoughts**: I wanna more practice.
+
+**Link to work:**
+https://leetcode.com/problems/reverse-linked-list/
