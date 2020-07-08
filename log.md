@@ -865,3 +865,15 @@ https://www.hackerrank.com/challenges/ruby-enumerable-each-with-index
 
 **Link to work:**
 https://leetcode.com/problems/reverse-linked-list/
+
+
+
+### Day 77: July 4, 2020
+
+**Today's Progress**: 
+ - Some algorithmic tasks and katas.
+
+**Thoughts**: I wanna more practice.
+
+**Link to work:**
+https://leetcode.com/problems/big-countries/
