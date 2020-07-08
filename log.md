@@ -877,3 +877,4 @@ https://leetcode.com/problems/reverse-linked-list/
 
 **Link to work:**
 https://leetcode.com/problems/big-countries/
+https://www.hackerrank.com/challenges/java-anagrams/
