@@ -878,3 +878,15 @@ https://leetcode.com/problems/reverse-linked-list/
 **Link to work:**
 https://leetcode.com/problems/big-countries/
 https://www.hackerrank.com/challenges/java-anagrams/
+
+
+
+### Day 78: July 5, 2020
+
+**Today's Progress**: 
+ - Some algorithmic tasks and katas.
+
+**Thoughts**: I wanna more practice.
+
+**Link to work:**
+https://leetcode.com/problems/duplicate-emails/
