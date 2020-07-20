@@ -924,3 +924,14 @@ https://www.codewars.com/kata/5390bac347d09b7da40006f6
 
 **Link to work:**
 https://stepik.org/lesson/3378/step/2?unit=961
+
+
+### Day 82: July 9, 2020
+
+**Today's Progress**: 
+ - Some algorithmic tasks and katas.
+
+**Thoughts**: I wanna more practice.
+
+**Link to work:**
+https://stepik.org/lesson/3378/step/3?unit=961
