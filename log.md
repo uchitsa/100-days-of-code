@@ -913,3 +913,14 @@ https://www.codewars.com/kata/59f7fc109f0e86d705000043
 
 **Link to work:**
 https://www.codewars.com/kata/5390bac347d09b7da40006f6
+
+
+### Day 81: July 8, 2020
+
+**Today's Progress**: 
+ - Some algorithmic tasks and katas.
+
+**Thoughts**: I wanna more practice.
+
+**Link to work:**
+https://stepik.org/lesson/3378/step/2?unit=961
