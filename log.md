@@ -902,3 +902,14 @@ https://leetcode.com/problems/duplicate-emails/
 
 **Link to work:**
 https://www.codewars.com/kata/59f7fc109f0e86d705000043
+
+
+### Day 80: July 7, 2020
+
+**Today's Progress**: 
+ - Some algorithmic tasks and katas.
+
+**Thoughts**: I wanna more practice.
+
+**Link to work:**
+https://www.codewars.com/kata/5390bac347d09b7da40006f6
