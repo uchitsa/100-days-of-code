@@ -957,3 +957,14 @@ https://stepik.org/lesson/12762/step/9?unit=3110
 
 **Link to work:**
 https://stepik.org/lesson/46357/step/1?unit=24395
+
+
+### Day 85: July 12, 2020
+
+**Today's Progress**: 
+ - Some algorithmic tasks and katas.
+
+**Thoughts**: I wanna more practice.
+
+**Link to work:**
+https://stepik.org/lesson/46369/step/1?unit=24404
