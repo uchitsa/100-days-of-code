@@ -968,3 +968,14 @@ https://stepik.org/lesson/46357/step/1?unit=24395
 
 **Link to work:**
 https://stepik.org/lesson/46369/step/1?unit=24404
+
+
+### Day 86: July 13, 2020
+
+**Today's Progress**: 
+ - Some algorithmic tasks and katas.
+
+**Thoughts**: I wanna more practice.
+
+**Link to work:**
+https://leetcode.com/problems/merge-sorted-array
