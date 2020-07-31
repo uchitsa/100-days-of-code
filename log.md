@@ -990,3 +990,15 @@ https://leetcode.com/problems/merge-sorted-array
 
 **Link to work:**
 https://leetcode.com/problems/squares-of-a-sorted-array
+
+
+
+### Day 88: July 15, 2020
+
+**Today's Progress**: 
+ - Some algorithmic tasks and katas.
+
+**Thoughts**: I wanna more practice.
+
+**Link to work:**
+https://www.hackerrank.com/challenges/string-validators
