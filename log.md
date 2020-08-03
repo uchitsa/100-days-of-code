@@ -1056,3 +1056,14 @@ https://www.hackerrank.com/challenges/merge-the-tools
 
 **Link to work:**
 https://leetcode.com/problems/remove-duplicates-from-sorted-array 
+
+
+### Day 94: July 21, 2020
+
+**Today's Progress**: 
+ - Some algorithmic tasks and katas.
+
+**Thoughts**: I wanna more practice.
+
+**Link to work:**
+https://leetcode.com/problems/remove-element
