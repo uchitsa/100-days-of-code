@@ -1034,3 +1034,14 @@ https://www.codewars.com/kata/5208f99aee097e6552000148
 
 **Link to work:**
 https://leetcode.com/problems/sort-colors
+
+
+### Day 92: July 19, 2020
+
+**Today's Progress**: 
+ - Some algorithmic tasks and katas.
+
+**Thoughts**: I wanna more practice.
+
+**Link to work:**
+https://www.hackerrank.com/challenges/merge-the-tools
