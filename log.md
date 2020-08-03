@@ -1045,3 +1045,14 @@ https://leetcode.com/problems/sort-colors
 
 **Link to work:**
 https://www.hackerrank.com/challenges/merge-the-tools
+
+
+### Day 93: July 20, 2020
+
+**Today's Progress**: 
+ - Some algorithmic tasks and katas.
+
+**Thoughts**: I wanna more practice.
+
+**Link to work:**
+https://leetcode.com/problems/remove-duplicates-from-sorted-array 
