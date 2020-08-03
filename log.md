@@ -1023,3 +1023,14 @@ https://stepik.org/lesson/21974/step/2?adaptive=true&unit=5234
 
 **Link to work:**
 https://www.codewars.com/kata/5208f99aee097e6552000148
+
+
+### Day 91: July 18, 2020
+
+**Today's Progress**: 
+ - Some algorithmic tasks and katas.
+
+**Thoughts**: I wanna more practice.
+
+**Link to work:**
+https://leetcode.com/problems/sort-colors
