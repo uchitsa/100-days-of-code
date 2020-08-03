@@ -1067,3 +1067,14 @@ https://leetcode.com/problems/remove-duplicates-from-sorted-array
 
 **Link to work:**
 https://leetcode.com/problems/remove-element
+
+
+### Day 95: July 22, 2020
+
+**Today's Progress**: 
+ - Some algorithmic tasks and katas.
+
+**Thoughts**: I wanna more practice.
+
+**Link to work:**
+https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii
