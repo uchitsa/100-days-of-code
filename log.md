@@ -1090,3 +1090,14 @@ https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii
 
 **Link to work:**
 https://leetcode.com/problems/merge-two-sorted-lists
+
+
+### Day 97: July 24, 2020
+
+**Today's Progress**: 
+ - Some algorithmic tasks and katas.
+
+**Thoughts**: I wanna more practice.
+
+**Link to work:**
+https://stepik.org/lesson/22792/step/1
