@@ -1102,3 +1102,14 @@ https://leetcode.com/problems/merge-two-sorted-lists
 **Link to work:**
 https://stepik.org/lesson/22792/step/1
 https://leetcode.com/problems/intersection-of-two-arrays-ii
+
+
+### Day 98: July 25, 2020
+
+**Today's Progress**: 
+ - Some algorithmic tasks and katas.
+
+**Thoughts**: I wanna more practice.
+
+**Link to work:**
+https://leetcode.com/problems/add-and-search-word-data-structure-design/
