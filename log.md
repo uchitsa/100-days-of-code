@@ -1129,3 +1129,14 @@ https://leetcode.com/problems/find-numbers-with-even-number-of-digits/
 https://leetcode.com/problems/n-repeated-element-in-size-2n-array/
 https://leetcode.com/problems/number-of-good-pairs/
 https://leetcode.com/problems/move-zeroes/
+
+
+### Day 100: July 27, 2020
+
+**Today's Progress**: 
+ - Some algorithmic tasks and katas.
+
+**Thoughts**: I wanna more practice.
+
+**Link to work:**
+https://www.hackerrank.com/challenges/compress-the-string/
