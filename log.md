@@ -1113,3 +1113,19 @@ https://leetcode.com/problems/intersection-of-two-arrays-ii
 
 **Link to work:**
 https://leetcode.com/problems/add-and-search-word-data-structure-design/
+
+
+### Day 99: July 26, 2020
+
+**Today's Progress**: 
+ - Some algorithmic tasks and katas.
+
+**Thoughts**: I wanna more practice.
+
+**Link to work:**
+https://leetcode.com/problems/find-all-duplicates-in-an-array/
+https://leetcode.com/problems/remove-duplicates-from-sorted-list/
+https://leetcode.com/problems/find-numbers-with-even-number-of-digits/
+https://leetcode.com/problems/n-repeated-element-in-size-2n-array/
+https://leetcode.com/problems/number-of-good-pairs/
+https://leetcode.com/problems/move-zeroes/
