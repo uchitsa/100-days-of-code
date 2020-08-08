@@ -1140,3 +1140,4 @@ https://leetcode.com/problems/move-zeroes/
 
 **Link to work:**
 https://www.hackerrank.com/challenges/compress-the-string/
+https://leetcode.com/problems/remove-linked-list-elements/
