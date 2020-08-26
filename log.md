@@ -1142,3 +1142,16 @@ https://leetcode.com/problems/move-zeroes/
 https://www.hackerrank.com/challenges/compress-the-string/
 https://leetcode.com/problems/remove-linked-list-elements/
 https://leetcode.com/problems/intersection-of-two-arrays/
+
+
+
+### Day 101: July 28, 2020
+
+**Today's Progress**: 
+ - Some algorithmic tasks and katas.
+
+**Thoughts**: I wanna more practice.
+
+**Link to work:**
+https://leetcode.com/problems/fizz-buzz/
+https://leetcode.com/problems/plus-one/
