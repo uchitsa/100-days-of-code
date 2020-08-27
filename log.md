@@ -1157,3 +1157,16 @@ https://leetcode.com/problems/fizz-buzz/
 https://leetcode.com/problems/plus-one/
 https://leetcode.com/problems/median-of-two-sorted-arrays/
 https://leetcode.com/problems/add-to-array-form-of-integer/
+
+
+
+### Day 102: July 29, 2020
+
+**Today's Progress**: 
+ - Some algorithmic tasks and katas.
+
+**Thoughts**: I wanna more practice.
+
+**Link to work:**
+https://leetcode.com/problems/contains-duplicate/
+https://leetcode.com/problems/contains-duplicate-ii/
