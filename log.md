@@ -1170,3 +1170,4 @@ https://leetcode.com/problems/add-to-array-form-of-integer/
 **Link to work:**
 https://leetcode.com/problems/contains-duplicate/
 https://leetcode.com/problems/contains-duplicate-ii/
+https://www.codewars.com/kata/5266876b8f4bf2da9b000362/
