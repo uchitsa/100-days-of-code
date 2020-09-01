@@ -1171,3 +1171,16 @@ https://leetcode.com/problems/add-to-array-form-of-integer/
 https://leetcode.com/problems/contains-duplicate/
 https://leetcode.com/problems/contains-duplicate-ii/
 https://www.codewars.com/kata/5266876b8f4bf2da9b000362/
+
+
+### Day 103: July 30, 2020
+
+**Today's Progress**: 
+ - Some algorithmic tasks and katas.
+
+**Thoughts**: I wanna more practice.
+
+**Link to work:**
+https://leetcode.com/problems/delete-node-in-a-linked-list/
+https://leetcode.com/problems/same-tree/
+https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
