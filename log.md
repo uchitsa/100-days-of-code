@@ -1184,3 +1184,16 @@ https://www.codewars.com/kata/5266876b8f4bf2da9b000362/
 https://leetcode.com/problems/delete-node-in-a-linked-list/
 https://leetcode.com/problems/same-tree/
 https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
+
+
+
+### Day 104: July 31, 2020
+
+**Today's Progress**: 
+ - Some algorithmic tasks and katas.
+
+**Thoughts**: I wanna more practice.
+
+**Link to work:**
+https://leetcode.com/problems/maximum-depth-of-binary-tree/
+https://leetcode.com/problems/minimum-depth-of-binary-tree/
