@@ -1210,3 +1210,4 @@ https://leetcode.com/problems/minimum-depth-of-binary-tree/
 **Link to work:**
 https://leetcode.com/problems/first-missing-positive
 https://leetcode.com/problems/set-mismatch
+https://leetcode.com/problems/detect-capital
