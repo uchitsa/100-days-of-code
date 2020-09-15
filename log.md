@@ -1197,3 +1197,15 @@ https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
 **Link to work:**
 https://leetcode.com/problems/maximum-depth-of-binary-tree/
 https://leetcode.com/problems/minimum-depth-of-binary-tree/
+
+
+
+### Day 105: August 1, 2020
+
+**Today's Progress**: 
+ - Some algorithmic tasks and katas.
+
+**Thoughts**: I wanna more practice.
+
+**Link to work:**
+https://leetcode.com/problems/first-missing-positive
