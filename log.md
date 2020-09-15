@@ -1211,3 +1211,4 @@ https://leetcode.com/problems/minimum-depth-of-binary-tree/
 https://leetcode.com/problems/first-missing-positive
 https://leetcode.com/problems/set-mismatch
 https://leetcode.com/problems/detect-capital
+https://leetcode.com/problems/student-attendance-record-i/
