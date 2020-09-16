@@ -1212,3 +1212,14 @@ https://leetcode.com/problems/first-missing-positive
 https://leetcode.com/problems/set-mismatch
 https://leetcode.com/problems/detect-capital
 https://leetcode.com/problems/student-attendance-record-i/
+
+
+### Day 106: August 2, 2020
+
+**Today's Progress**: 
+ - Some algorithmic tasks and katas.
+
+**Thoughts**: I wanna more practice.
+
+**Link to work:**
+https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array
